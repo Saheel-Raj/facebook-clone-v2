@@ -256,7 +256,7 @@ const cards = [
   { name: "iShowSpeed", profile: "https://www.ixpap.com/images/2022/02/IShowSpeed-Wallpaper-12.jpeg" },
   { name: "Choti Lulli", profile: "https://th.bing.com/th/id/OIP.JY3_1sh3p3ws-cMXHdnskgHaHa?rs=1&pid=ImgDetMain" },
   { name: "Landy Bhai", profile: "https://th.bing.com/th/id/OIP.QUbU6bfhdRPoVtaYXm1CHAHaLJ?rs=1&pid=ImgDetMain" },
-  { name: "You Sink", profile: "images/p6.jpeg" },
+  { name: "You Sink", profile: "https://cdn.shopify.com/s/files/1/2274/2515/products/Long_Green.jpg?v=1518539707" },
   { name: "Lattu Muttiya Baba", profile: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVBJBFUt0XIYA5MfeIqOpgeOgQqE4OhiBoUqe1-W7D1ue_HNnf7jlXEvGLLfeO8KIzsjrVR-iImKNGuBbbR17R4zHHmlH4tQ2hdfaya4xaLi2SCD3raNJe06B5o9hcKxHtnsKcs-5LMTKNExDxHApItqCiXkFJyNaLhJnhUxcv0yes7L1w3cFu-CZsA8c/w1200-h630-p-k-no-nu/laddu.jpg" },
   { name: "Unknown 2022", profile: "images/p8.jpeg" },
 ];
